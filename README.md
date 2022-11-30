@@ -1,16 +1,9 @@
-# projeto_calculadora
+# Projeto de Calculadora
 
-A new Flutter project.
+App que executa funções de uma calculadora.
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nesse projeto eu testei algumas funcionalidades do Flutter com o intuito de me aprofundar na área de
+desenvolvimento mobile. Aprofundei em criação de classes, uso de bibliotecas como o math_expressions e 
+criação de algumas funções. Além disso, o layout do aplicativo foi elaborado para ser responsivo.
